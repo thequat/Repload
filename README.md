@@ -9,6 +9,9 @@ If the password is not inserted into the **"Enter password to check"** window us
 
 # Application
 Latest version of the application: **Alpha v1.0.0**
+
 You can find out about all the latest news in [Telegram](https://t.me/thequat) or on the [website](https://quat.ct.ws/en/).
+
+---
 
 ### By using the application you automatically agree to the license even if you have not read it. If you do not agree with the license, stop using the application immediately.
